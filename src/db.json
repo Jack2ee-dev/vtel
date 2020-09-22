@@ -1,0 +1,302 @@
+{
+  "accomodations": [
+    {
+      "id": 1,
+      "name": "네스트 호텔 인천",
+      "representativeVideoId": "8iFv7u2Cw-k",
+      "rates": 8.3,
+      "reviewCount": 2917,
+      "location": {
+        "address": "영종해안남로 19-5",
+        "lat": 37.4245618,
+        "lng": 126.4253816
+      },
+      "lowestPrice": 130000,
+      "postedBy": {
+        "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJzm_YigB5elm7HGItaAo9FnDno2ZvSgUR3yD_utng=s88-c-k-c0xffffffff-no-rj-mo",
+        "profileName": "Chaeling 챌링"
+      }
+    },
+    {
+      "id": 2,
+      "name": "인천 파라다이스 시티 호텔",
+      "representativeVideoId": "0IO0lx7pLFY",
+      "rates": 9,
+      "reviewCount": 1251,
+      "location": {
+        "address": "영종해안남로 321번길 186",
+        "lat": 37.4372111,
+        "lng": 126.4557687
+      },
+      "lowestPrice": 42000,
+      "postedBy": {
+        "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyEgktnXNG68DUQ-BHAWci9P53dQwJ4ElRSrHfP=s88-c-k-c0xffffffff-no-rj-mo",
+        "profileName": "몰리언니"
+      }
+    },
+    {
+      "id": 3,
+      "name": "오크우드 프리미어 인천 호텔",
+      "representativeVideoId": "UQP1imzMyB8",
+      "rates": 8.9,
+      "reviewCount": 2867,
+      "location": {
+        "address": "컨벤시아대로 165",
+        "lat": 37.3891409,
+        "lng": 126.6444427
+      },
+      "lowestPrice": 170000,
+      "postedBy": {
+        "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJx0VYP3Ww3Wr-LsL3mgs0CHol4yYbvR1N8vakHcxg=s88-c-k-c0xffffffff-no-rj-mo",
+        "profileName": "데일리호텔DAILYHOTEL"
+      }
+    },
+    {
+      "id": 4,
+      "name": "인천 쉐라톤 호텔",
+      "representativeVideoId": "YssLlvtnNyM",
+      "rates": 8.6,
+      "reviewCount": 312,
+      "location": {
+        "address": "컨벤시아대로 153",
+        "lat": 37.3902251,
+        "lng": 126.6454264
+      },
+      "lowestPrice": 148500,
+      "postedBy": {
+        "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyW2S2h1YptLuaW49NT-WVlSfoSjb-jsz3RPDgCwQ=s88-c-k-c0xffffffff-no-rj-mo",
+        "profileName": "지효공주"
+      }
+    }
+  ],
+  "accomodationDetails": [
+    {
+      "accomodationId": 1,
+      "representativeReview": {
+        "review": "편하게 쉬다 올 수 있어서 너무 좋았습니다.",
+        "postedBy": "Chaeling 챌링"
+      },
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "rooms": [
+        {
+          "id": 1,
+          "type": "스탠다드 더블(마운틴뷰)",
+          "descriptions": {
+            "bedType": "퀸베드 1개",
+            "roomSize": "35m²",
+            "view": "마운틴뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/686/686517/686517_15011110320024412519.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/686517/-1/b3d028fd97705ffc66aba29d45b1bd05.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "스탠다드 트윈 마운틴뷰",
+          "descriptions": {
+            "bedType": "싱글베드 2개",
+            "roomSize": "35m²",
+            "view": "마운틴뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/686517/-1/c2843d5073fe4b2007b5798ddc918a2b.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/686517/-1/c2843d5073fe4b2007b5798ddc918a2b.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "스탠다드 트윈 씨뷰",
+          "descriptions": {
+            "bedType": "싱글베드 2개",
+            "roomSize": "35m²",
+            "view": "씨뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/686/686517/686517_16042816170041897804.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/686/686517/686517_15011110310024412490.jpg?s=801x553"
+          ]
+        }
+      ],
+      "otaURL": "https://www.agoda.com/ko-kr/nest-hotel-incheon/hotel/incheon-kr.html?requestPriceView=1&finalPriceView=1&isShowMobileAppPrice=false&cid=-1&numberOfBedrooms=&familyMode=false&isAgMse=false&ccallout=false&defdate=false&adults=2&children=0&rooms=1&maxRooms=9&checkIn=2020-09-23&childAges=&defaultChildAge=8&travellerType=1&tspTypes=7&los=1&searchrequestid=62b2867a-2adc-40a0-8e91-73a36ccc9dc4"
+    },
+    {
+      "accomodationId": 2,
+      "representativeReview": {
+        "review": "시설도 좋고 직원들도 너무 친절해서 서비스 받고 온 기분이 들어 즐거웠습니다.",
+        "postedBy": "몰리언니"
+      },
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "rooms": [
+        {
+          "id": 1,
+          "type": "디럭스 트윈룸",
+          "descriptions": {
+            "bedType": "세미 더블베드 2개",
+            "roomSize": "45m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/2070028/-1/edb65709d841faf752f296dc2925d580.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/2070028/-1/c7d7f55657ff3e8332950727d524f037.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "디럭스 더블룸",
+          "descriptions": {
+            "bedType": "킹베드 1개",
+            "roomSize": "45m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/2070028/-1/0dd0718818ff019b03c024a48adef228.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/2070028/-1/f84214a674b1d5f480f05da086c9bc66.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "프리미어 디럭스 트윈룸",
+          "descriptions": {
+            "bedType": "세미 더블베드 2개",
+            "roomSize": "54m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/2070028/-1/8758af9734f742febbe834c0c7c7d238.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/2070028/-1/7daa60122544214483052547f1d784b0.jpg?s=801x553"
+          ]
+        }
+      ],
+      "otaURL": "https://www.agoda.com/ko-kr/paradise-hotel-resort-paradise-city/hotel/incheon-kr.html?requestPriceView=1&finalPriceView=1&isShowMobileAppPrice=false&cid=-1&numberOfBedrooms=&familyMode=false&isAgMse=false&ccallout=false&defdate=false&adults=2&children=0&rooms=1&maxRooms=9&checkIn=2020-09-23&childAges=&defaultChildAge=8&travellerType=1&los=1&searchrequestid=ce9c8827-f918-449b-aec3-d147d688855a"
+    },
+    {
+      "accomodationId": 3,
+      "representativeReview": {
+        "review": "음식도 해먹을 수 있고 깔끔하고 마트도 가까워서 편하게 쉬다 왔습니다",
+        "postedBy": "데일리호텔DAILYHOTEL"
+      },
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "rooms": [
+        {
+          "id": 1,
+          "type": "스튜디오 슈페리어 더블",
+          "descriptions": {
+            "bedType": "더블베드 1개",
+            "roomSize": "53m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/665651/-1/e04ca0e1e83a7169cd159ce9949dff2c.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/665651/-1/3b1629217d876dd357865b0ee4b9c6cf.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "스튜디오 슈페리어 트윈",
+          "descriptions": {
+            "bedType": "싱글베드 2개",
+            "roomSize": "53m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/665651/-1/6c7e2dea9ff0f594e5b911534342e939.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/665651/-1/3b1629217d876dd357865b0ee4b9c6cf.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "스튜디오 디럭스 더블",
+          "descriptions": {
+            "bedType": "킹베드 1개",
+            "roomSize": "65m²",
+            "view": "",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/665651/-1/7d50b1b02d7d8ba6da01dc7304bb25ef.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/665651/-1/3f3cec331423bee46d011e292e5a3f93.jpg?s=801x553"
+          ]
+        }
+      ],
+      "otaURL": "https://www.agoda.com/ko-kr/oakwood-premier-incheon-hotel/hotel/incheon-kr.html?requestPriceView=1&finalPriceView=1&isShowMobileAppPrice=false&cid=-1&numberOfBedrooms=&familyMode=false&isAgMse=false&ccallout=false&defdate=false&adults=2&children=0&rooms=1&maxRooms=9&checkIn=2020-09-23&childAges=&defaultChildAge=8&travellerType=1&los=1&searchrequestid=3f822262-27c0-4655-be2b-cb75c8e4187b"
+    },
+    {
+      "accomodationId": 4,
+      "representativeReview": {
+        "review": "모든 것이 다 좋은 호텔입니다",
+        "postedBy": "지효공주"
+      },
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "rooms": [
+        {
+          "id": 1,
+          "type": "시티뷰 룸",
+          "descriptions": {
+            "bedType": "킹베드 1개",
+            "roomSize": "37m²",
+            "view": "시티뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/195608/-1/651b87ba570adee366e2f0ad2b674de3.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/195608/-1/eb496287dbc1f470904cf1d046560370.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "센트럴 파크뷰 디럭스룸",
+          "descriptions": {
+            "bedType": "킹베드 1개",
+            "roomSize": "37m²",
+            "view": "파크뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/5061767/93423331/671830dfc66b25a6a178c54c94324321.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/5061767/93423331/ddef67a75cd5e23678b54cc7191e6dba.jpg?s=801x553"
+          ]
+        },
+        {
+          "id": 3,
+          "type": "이그제큐티브 스위트",
+          "descriptions": {
+            "bedType": "킹베드 1개",
+            "roomSize": "57m²",
+            "view": "파크뷰",
+            "smoking": false,
+            "shower": true
+          },
+          "imageUrl": [
+            "https://pix6.agoda.net/hotelImages/5061767/93423323/2dacea74beebdc0708800ca191349a88.jpg?s=801x553",
+            "https://pix6.agoda.net/hotelImages/5061767/93423323/2b9848e2c05e3aaa1c19ce1848a04777.jpg?s=801x553"
+          ]
+        }
+      ],
+      "otaURL": "https://www.agoda.com/ko-kr/sheraton-grand-incheon-hotel/hotel/incheon-kr.html?requestPriceView=1&finalPriceView=1&isShowMobileAppPrice=false&cid=-1&numberOfBedrooms=&familyMode=false&isAgMse=false&ccallout=false&defdate=false&adults=2&children=0&rooms=1&maxRooms=9&checkIn=2020-09-23&childAges=&defaultChildAge=8&travellerType=1&los=1&searchrequestid=590d67e0-389a-4ce4-84b8-f80f076095e0"
+    }
+  ]
+}
