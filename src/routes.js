@@ -1,5 +1,5 @@
 import homepage from './pages/home';
-import accomdationDetailPage from './pages/accomodationDetail';
+import accomodationDetailPage from './pages/accomodationDetail';
 import loadingPage from './pages/loading';
 
 const routes = [
@@ -10,9 +10,9 @@ const routes = [
     exact: true,
   },
   {
-    path: '/accomdation-detail/:accomodationId',
+    path: '/accomodation-detail/:accomodationId',
     name: '숙소 세부',
-    container: accomdationDetailPage,
+    container: accomodationDetailPage,
     exact: true,
   },
   {

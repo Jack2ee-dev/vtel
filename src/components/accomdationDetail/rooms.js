@@ -21,7 +21,7 @@ const Rooms = ({ accomodationDetail }) => {
               onSelect={handleSelect}
             >
               {imageUrl.map((url, idx) => (
-                <Carousel.Item>
+                <Carousel.Item key={idx}>
                   <img
                     className="d-block w-100"
                     src={url}

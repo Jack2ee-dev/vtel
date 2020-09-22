@@ -7,7 +7,7 @@ const Home = ({ history }) => {
   const [accomodations, setAccomodations] = useState([]);
 
   const moveToAccomodationDetailPage = (accomodationId) => {
-    history.push(`/accomdation-detail/${accomodationId}`);
+    history.push(`/accomodation-detail/${accomodationId}`);
   };
 
   const getAccomodations = async () => {

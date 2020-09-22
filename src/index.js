@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+// import { ConnectedRouter } from 'react-router-redux';
 import { BrowserRouter } from 'react-router-dom';
 import styled from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -15,11 +16,11 @@ const IndexWrapper = styled.div`
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <IndexWrapper>
+    <IndexWrapper>
+      <BrowserRouter>
         <App />
-      </IndexWrapper>
-    </BrowserRouter>
+      </BrowserRouter>
+    </IndexWrapper>
   </React.StrictMode>,
   document.getElementById('root')
 );
