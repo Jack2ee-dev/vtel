@@ -110,6 +110,8 @@ const AccomodationDetail = ({ history, match }) => {
       ) : null}
       {accomodationDetail ? (
         <ReservationButton
+          history={history}
+          match={match}
           otaURL={accomodationDetail.otaURL}
         />
       ) : null}

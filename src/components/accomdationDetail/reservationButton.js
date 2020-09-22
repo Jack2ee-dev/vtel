@@ -13,10 +13,10 @@ const FixedInBottomButton = styled(Button)`
   border: none;
 `;
 
-const ReservationButton = ({ history, otaURL }) => {
-  // console.log(history);
+const ReservationButton = ({ history, match, otaURL }) => {
+  console.log(history, match);
   const goToLoading = () => {
-    history.push(`/loading/`);
+    history.push(`/loading?uri=${otaURL}`);
   };
 
   return (

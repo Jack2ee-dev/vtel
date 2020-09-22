@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import queryString from 'query-string';
 
 import LoadingGIF from '../assets/images/loading.gif';
 
@@ -11,8 +12,14 @@ const LoadingWrapper = styled.div`
   align-items: center;
 `;
 
-const Loading = ({ match }) => {
-  console.log(match);
+const Loading = ({ location }) => {
+  const qs = queryString.parse(location.search);
+
+  setTimeout(() => {
+    window.open(qs.uri);
+  }, 500);
+
+  console.log(qs);
   return (
     <LoadingWrapper>
       <img src={LoadingGIF} alt="loading-spinner" />

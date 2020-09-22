@@ -16,7 +16,7 @@ const routes = [
     exact: true,
   },
   {
-    path: '/loading?uri=:i',
+    path: '/loading',
     name: '로딩 화면',
     container: loadingPage,
     exact: false,
