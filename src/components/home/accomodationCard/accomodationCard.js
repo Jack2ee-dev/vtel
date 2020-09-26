@@ -55,6 +55,7 @@ const AccomodationCard = ({
   reviewCount,
   location,
   lowestPrice,
+  otaURL,
   clicked,
 }) => {
   return (
@@ -108,7 +109,7 @@ const AccomodationCard = ({
               border: 'none',
             }}
             block
-            onClick={() => clicked(id)}
+            onClick={() => clicked(otaURL)}
           >
             숙소 상세보기
           </Button>

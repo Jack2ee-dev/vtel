@@ -15,7 +15,8 @@
       "postedBy": {
         "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJzm_YigB5elm7HGItaAo9FnDno2ZvSgUR3yD_utng=s88-c-k-c0xffffffff-no-rj-mo",
         "profileName": "Chaeling 챌링"
-      }
+      },
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=686517"
     },
     {
       "id": 2,
@@ -32,7 +33,8 @@
       "postedBy": {
         "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyEgktnXNG68DUQ-BHAWci9P53dQwJ4ElRSrHfP=s88-c-k-c0xffffffff-no-rj-mo",
         "profileName": "몰리언니"
-      }
+      },
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=2070028"
     },
     {
       "id": 3,
@@ -49,7 +51,8 @@
       "postedBy": {
         "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJx0VYP3Ww3Wr-LsL3mgs0CHol4yYbvR1N8vakHcxg=s88-c-k-c0xffffffff-no-rj-mo",
         "profileName": "데일리호텔DAILYHOTEL"
-      }
+      },
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=665651"
     },
     {
       "id": 4,
@@ -66,7 +69,26 @@
       "postedBy": {
         "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyW2S2h1YptLuaW49NT-WVlSfoSjb-jsz3RPDgCwQ=s88-c-k-c0xffffffff-no-rj-mo",
         "profileName": "지효공주"
-      }
+      },
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=195608"
+    },
+    {
+      "id": 5,
+      "name": "그랜드메르 호텔",
+      "representativeVideoId": "YssLlvtnNyM",
+      "rates": 8.6,
+      "reviewCount": 312,
+      "location": {
+        "address": "컨벤시아대로 153",
+        "lat": 37.3902251,
+        "lng": 126.6454264
+      },
+      "lowestPrice": 148500,
+      "postedBy": {
+        "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyW2S2h1YptLuaW49NT-WVlSfoSjb-jsz3RPDgCwQ=s88-c-k-c0xffffffff-no-rj-mo",
+        "profileName": "지효공주"
+      },
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=1273677"
     }
   ],
   "accomodationDetails": [

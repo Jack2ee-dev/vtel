@@ -6,8 +6,12 @@ import AccomodationCards from '../components/home/accomodationCards';
 const Home = ({ history }) => {
   const [accomodations, setAccomodations] = useState([]);
 
-  const moveToAccomodationDetailPage = (accomodationId) => {
-    history.push(`/accomodation-detail/${accomodationId}`);
+  // const moveToAccomodationDetailPage = (accomodationId) => {
+  //   history.push(`/accomodation-detail/${accomodationId}`);
+  // };
+
+  const goToOta = (otaURL) => {
+    window.open(otaURL);
   };
 
   const getAccomodations = async () => {
@@ -31,9 +35,10 @@ const Home = ({ history }) => {
       {accomodations.length > 0 ? (
         <AccomodationCards
           accomodationData={accomodations}
-          clicked={(accomodationId) =>
-            moveToAccomodationDetailPage(accomodationId)
-          }
+          // clicked={(accomodationId) =>
+          //   moveToAccomodationDetailPage(accomodationId)
+          // }
+          clicked={(otaURL) => goToOta(otaURL)}
         />
       ) : null}
     </>
