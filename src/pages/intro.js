@@ -11,7 +11,7 @@ const Intro = ({ history }) => {
     <Card style={{ width: '100%', height: '100vh' }}>
       <Card.Img
         variant="top"
-        src="%PUBLIC_URL%/intro.jpeg"
+        src="https://vtel-images.s3.ap-northeast-2.amazonaws.com/intro.jpeg"
       />
       <Card.Body style={{ marginTop: '1rem' }}>
         <Card.Title
