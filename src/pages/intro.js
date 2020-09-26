@@ -1,8 +1,6 @@
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 
-import introImg from '../assets/images/intro.jpeg';
-
 const Intro = ({ history }) => {
   const handleIntro = () => {
     localStorage.setItem('HIDE_INTRO', true);
@@ -11,7 +9,10 @@ const Intro = ({ history }) => {
 
   return (
     <Card style={{ width: '100%', height: '100vh' }}>
-      <Card.Img variant="top" src={introImg} />
+      <Card.Img
+        variant="top"
+        src="%PUBLIC_URL%/intro.jpeg"
+      />
       <Card.Body style={{ marginTop: '1rem' }}>
         <Card.Title
           style={{ fontSize: '24px', fontWeight: 800 }}
