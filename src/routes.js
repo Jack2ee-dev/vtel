@@ -1,12 +1,19 @@
 import homepage from './pages/home';
-import accomodationDetailPage from './pages/accomodationDetail';
-import loadingPage from './pages/loading';
+import intropage from './pages/intro';
+// import accomodationDetailPage from './pages/accomodationDetail';
+// import loadingPage from './pages/loading';
 
 const routes = [
   {
     path: '/',
     name: '홈',
     container: homepage,
+    exact: true,
+  },
+  {
+    path: '/intro',
+    name: '서비스 소개',
+    container: intropage,
     exact: true,
   },
   // {

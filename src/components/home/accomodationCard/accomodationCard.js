@@ -111,7 +111,7 @@ const AccomodationCard = ({
             block
             onClick={() => clicked(otaURL)}
           >
-            숙소 상세보기
+            숙소 예약하기
           </Button>
         </AccomodationInfoWrapper>
       </Card>

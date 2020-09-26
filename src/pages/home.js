@@ -26,6 +26,16 @@ const Home = ({ history }) => {
     }
   };
 
+  const redirectToIntro = () => {
+    if (!localStorage.getItem('HIDE_INTRO')) {
+      history.push('/intro');
+    }
+  };
+
+  useEffect(() => {
+    redirectToIntro();
+  }, []);
+
   useEffect(() => {
     getAccomodations();
   }, []);

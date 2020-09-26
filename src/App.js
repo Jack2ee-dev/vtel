@@ -29,7 +29,6 @@ function App() {
 
   return (
     <AppWrapper>
-      {/* <Navbar /> */}
       <SwitchRoutes />
     </AppWrapper>
   );
