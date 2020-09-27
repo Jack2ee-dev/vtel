@@ -56,6 +56,7 @@ const AccomodationCard = ({
   location,
   lowestPrice,
   otaURL,
+  region,
   clicked,
 }) => {
   return (
@@ -65,7 +66,9 @@ const AccomodationCard = ({
       }}
     >
       <AccomodationNameWrapper>
-        <div>{name}</div>
+        <div>
+          {name}({region})
+        </div>
       </AccomodationNameWrapper>
       <Iframe
         id={id}

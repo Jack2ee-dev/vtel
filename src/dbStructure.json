@@ -149,6 +149,186 @@
       "lowestPrice": 79960,
       "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=7199331",
       "region": "여수"
+    },
+    {
+      "id": 10,
+      "name": "아만티호텔",
+      "representativeVideoId": "ry_c9nku6eI",
+      "rates": 8.5,
+      "reviewCount": 3141,
+      "location": {
+        "address": "월드컵북로 31",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 80000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=1197749",
+      "region": "서울"
+    },
+    {
+      "id": 11,
+      "name": "네스트호텔",
+      "representativeVideoId": "_mveIE772ns",
+      "rates": 8.4,
+      "reviewCount": 1541,
+      "location": {
+        "address": "영종해안남로 19-5",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 140000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=686517",
+      "region": "인천"
+    },
+    {
+      "id": 12,
+      "name": "론다빌펜션",
+      "representativeVideoId": "816F74a3zy0",
+      "rates": 0,
+      "reviewCount": 0,
+      "location": {
+        "address": "북한강변로 784",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 0,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=15906339",
+      "region": "가평"
+    },
+    {
+      "id": 13,
+      "name": "까사32호텔",
+      "representativeVideoId": "BYnJMprRH6E",
+      "rates": 8.4,
+      "reviewCount": 2,
+      "location": {
+        "address": "유명로 2384",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 99174,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10589125",
+      "region": "가평"
+    },
+    {
+      "id": 14,
+      "name": "히든클리프",
+      "representativeVideoId": "7DF_dp0UA90",
+      "rates": 8.7,
+      "reviewCount": 2608,
+      "location": {
+        "address": "예래해안로 542",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 163636,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=1199068",
+      "region": "제주"
+    },
+    {
+      "id": 15,
+      "name": "샵엔플랫 풀빌라",
+      "representativeVideoId": "TLY0GqySp_8",
+      "rates": 0,
+      "reviewCount": 0,
+      "location": {
+        "address": "동해안로 2630",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 0,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10585104",
+      "region": "경주"
+    },
+    {
+      "id": 16,
+      "name": "스카이베이경포호텔",
+      "representativeVideoId": "HvLcgwxHEvg",
+      "rates": 8.3,
+      "reviewCount": 2095,
+      "location": {
+        "address": "해안로 476",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 141636,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=4916267",
+      "region": "강릉"
+    },
+    {
+      "id": 17,
+      "name": "오푸스 11",
+      "representativeVideoId": "unIoXgBy2x4",
+      "rates": 9.0,
+      "reviewCount": 148,
+      "location": {
+        "address": "천강로 166-37",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 123140,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10574521",
+      "region": "경주"
+    },
+    {
+      "id": 18,
+      "name": "H AVENUE",
+      "representativeVideoId": "YhRFX0vgSGY",
+      "rates": 7.4,
+      "reviewCount": 420,
+      "location": {
+        "address": "동일로 156",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 24570,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=4137253",
+      "region": "서울"
+    },
+    {
+      "id": 19,
+      "name": "파라다이스시티 호텔",
+      "representativeVideoId": "gPL_CZFoPfc",
+      "rates": 9.0,
+      "reviewCount": 1252,
+      "location": {
+        "address": "영종해안남로 321 번길 186",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 300000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=2070028",
+      "region": "인천"
+    },
+    {
+      "id": 20,
+      "name": "신라호텔",
+      "representativeVideoId": "TOEzvqLj8Yo",
+      "rates": 9.1,
+      "reviewCount": 1853,
+      "location": {
+        "address": "중문관광로 72번길 75",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 400000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=62746",
+      "region": "제주"
+    },
+    {
+      "id": 21,
+      "name": "슈가브리움",
+      "representativeVideoId": "M9gLR_Jp2os",
+      "rates": 8.3,
+      "reviewCount": 3,
+      "location": {
+        "address": "몰둠벙길 58",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 239669,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10585344",
+      "region": "여수"
     }
   ]
 }

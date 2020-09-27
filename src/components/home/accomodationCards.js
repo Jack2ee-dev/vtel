@@ -22,6 +22,7 @@ const AccomodationCards = ({
             location,
             lowestPrice,
             otaURL,
+            region,
           }) => (
             <AccomodationCard
               key={id}
@@ -34,6 +35,7 @@ const AccomodationCards = ({
               location={location}
               lowestPrice={lowestPrice}
               otaURL={otaURL}
+              region={region}
               // clicked={(accomdationId) =>
               //   clicked(accomdationId)
               // }
