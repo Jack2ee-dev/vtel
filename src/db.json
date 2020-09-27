@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "네스트 호텔 인천",
-      "representativeVideoId": "8iFv7u2Cw-k",
+      "representativeVideoId": "d ",
       "rates": 8.3,
       "reviewCount": 2917,
       "location": {
@@ -75,20 +75,20 @@
     {
       "id": 5,
       "name": "그랜드메르 호텔",
-      "representativeVideoId": "YssLlvtnNyM",
+      "representativeVideoId": "3laK9FMq1IY",
       "rates": 8.6,
-      "reviewCount": 312,
+      "reviewCount": 1621,
       "location": {
-        "address": "컨벤시아대로 153",
+        "address": "논짓물로 45",
         "lat": 37.3902251,
         "lng": 126.6454264
       },
-      "lowestPrice": 148500,
+      "lowestPrice": 43239,
       "postedBy": {
         "profileImageUrl": "https://yt3.ggpht.com/a/AATXAJyW2S2h1YptLuaW49NT-WVlSfoSjb-jsz3RPDgCwQ=s88-c-k-c0xffffffff-no-rj-mo",
         "profileName": "지효공주"
       },
-      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=1273677"
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=1273677"
     }
   ],
   "accomodationDetails": [

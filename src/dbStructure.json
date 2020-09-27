@@ -1,0 +1,154 @@
+{
+  "accomodations": [
+    {
+      "id": 0,
+      "name": "마리나베이",
+      "representativeVideoId": "VEXz3wSTLU8",
+      "rates": 8.4,
+      "reviewCount": 822,
+      "location": {
+        "address": "아라육로152번길 210-50",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 0,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=5593758",
+      "region": "서울"
+    },
+    {
+      "id": 1,
+      "name": "베이힐풀앤빌라",
+      "representativeVideoId": "STvKw99Q36M",
+      "rates": 8.5,
+      "reviewCount": 293,
+      "location": {
+        "address": "예래로 424",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 247445,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=569570",
+      "region": "제주"
+    },
+    {
+      "id": 2,
+      "name": "마치블루풀빌라",
+      "representativeVideoId": "HmaS309Kc08",
+      "rates": 9.8,
+      "reviewCount": 2,
+      "location": {
+        "address": "봉화길 202",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 0,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10582334",
+      "region": "포항"
+    },
+    {
+      "id": 3,
+      "name": "포시즌스 호텔",
+      "representativeVideoId": "a4UfKpVc7bg",
+      "rates": 9.3,
+      "reviewCount": 275,
+      "location": {
+        "address": "새문안로 97",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 295000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=1197048",
+      "region": "서울"
+    },
+    {
+      "id": 4,
+      "name": "노보텔",
+      "representativeVideoId": "oe3lG4VbqJs",
+      "rates": 8.9,
+      "reviewCount": 875,
+      "location": {
+        "address": "을지로 238",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 126000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=4935081",
+      "region": "서울"
+    },
+    {
+      "id": 5,
+      "name": "썬힐펜션",
+      "representativeVideoId": "_NBVdX9di08",
+      "rates": 8.8,
+      "reviewCount": 875,
+      "location": {
+        "address": "신추길 22",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 89256,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10588919",
+      "region": "여수"
+    },
+    {
+      "id": 6,
+      "name": "위호텔",
+      "representativeVideoId": "22Mg4rdL_RM",
+      "rates": 8.2,
+      "reviewCount": 208,
+      "location": {
+        "address": "1100로 453-95",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 128571,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=836789",
+      "region": "제주"
+    },
+    {
+      "id": 7,
+      "name": "더리버사이드호텔",
+      "representativeVideoId": "G9dUiErgNn4",
+      "rates": 6.6,
+      "reviewCount": 651,
+      "location": {
+        "address": "강남대로107길 6",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 54648,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=43219",
+      "region": "서울"
+    },
+    {
+      "id": 8,
+      "name": "신라호텔",
+      "representativeVideoId": "oQUBRxgaqGA",
+      "rates": 9.1,
+      "reviewCount": 2450,
+      "location": {
+        "address": "동호로 249",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 266000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=4409",
+      "region": "서울"
+    },
+    {
+      "id": 9,
+      "name": "유탑마리나",
+      "representativeVideoId": "AF8f2Tch1es",
+      "rates": 8.5,
+      "reviewCount": 629,
+      "location": {
+        "address": "오동도로 61-15",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 79960,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=7199331",
+      "region": "여수"
+    }
+  ]
+}
