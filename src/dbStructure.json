@@ -329,6 +329,81 @@
       "lowestPrice": 239669,
       "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=10585344",
       "region": "여수"
+    },
+    {
+      "id": 22,
+      "name": "몬드리안호텔",
+      "representativeVideoId": "0ad7FtBQ9fQ",
+      "rates": 9.3,
+      "reviewCount": 6,
+      "location": {
+        "address": "장문로 23",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 123636,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888105&hid=16366477",
+      "region": "서울"
+    },
+    {
+      "id": 23,
+      "name": "스카이베이경포호텔",
+      "representativeVideoId": "33FCYOI85HE",
+      "rates": 8.3,
+      "reviewCount": 2095,
+      "location": {
+        "address": "해안로 476",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 141636,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=4916267",
+      "region": "강릉"
+    },
+    {
+      "id": 24,
+      "name": "반얀트리 클럽 앤 스파",
+      "representativeVideoId": "TYK6BQBqsW4",
+      "rates": 8.4,
+      "reviewCount": 617,
+      "location": {
+        "address": "장충단로 60",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 365500,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=186874",
+      "region": "서울"
+    },
+    {
+      "id": 25,
+      "name": "시그니엘 호텔",
+      "representativeVideoId": "NoW4smeslzs",
+      "rates": 9.4,
+      "reviewCount": 863,
+      "location": {
+        "address": "올림픽로 300",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 494090,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=2066635",
+      "region": "서울"
+    },
+    {
+      "id": 26,
+      "name": "포시즌스 호텔",
+      "representativeVideoId": "u-DQ5YTrUl4",
+      "rates": 9.3,
+      "reviewCount": 275,
+      "location": {
+        "address": "새문안로 97",
+        "lat": null,
+        "lng": null
+      },
+      "lowestPrice": 295000,
+      "otaURL": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1888120&hid=1197048",
+      "region": "서울"
     }
   ]
 }

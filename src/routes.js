@@ -8,7 +8,7 @@ const routes = [
     path: '/',
     name: '홈',
     container: homepage,
-    exact: true,
+    exact: false,
   },
   {
     path: '/intro',
