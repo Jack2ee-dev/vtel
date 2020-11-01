@@ -1,68 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 서비스 소개
 
-## Available Scripts
+- 동영상 기반의 숙박 정보 제공 및 예약 사이트: 영상 기반의 OTA(Online Travel Agency)
 
-In the project directory, you can run:
+## 문제 분석
 
-### `npm start`
+- 이미지에서 영상으로의 콘텐츠 소비 트렌드의 전환
+- 기존 OTA 사이트(아고다 등)의 과도한 수수료(15~20%)
+- 실제 숙박 시설과 이미지 간의 괴리 발생
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 해결방안
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- 영상 기반의 OTA
+- 낮은 수수료(7~10%)
+- 영상을 통해 실제와 가까운 숙소 정보 제공
 
-### `npm test`
+### 구체적 방안
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 영상 기반의 OTA 사이트 제공
+- 영상 제작자에게 영상 제공의 대가로 해당 영상으로 발생한 호텔 매출의 2~3%의 리워드 제공
+- 영상 리뷰에 대한 리워드 제공
 
-### `npm run build`
+## 수익모델
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 숙박 매출 수수료(7~10%)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 서비스 URL
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### [https://www.vtel.shop/](https://www.vtel.shop/)
 
-### `npm run eject`
+## 액션
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 1차)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 1. 3P 프리토타이핑 페이지 제작(기존의 OTA 모방)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- 1페이지(메인페이지)
+- 2페이지(상세페이지)
+- 3페이지(구매연결페이지) - 기존 OTA로 연결
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### 2. 각 페이지 별 유입 및 전환율 체크
 
-## Learn More
+- google analytics 삽입(구매연결페이지에서 OTA 페이지로 이동하는 이용자 % 체크 → 구매 전환율 유추)
+- 페이스북 광고
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 2차)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 1. 4P 프리토타이핑 페이지 제작
 
-### Code Splitting
+- 1 페이지(인트로 페이지)
+- 2 페이지(메인페이지): 리스트업된 호텔 페이지에서 호텔의 대표영상으로 기존 여행 브이로거들이 만든 호텔 브이로그 제시
+- 3 페이지(호텔 상세페이지): 메인페이지에서 선택한 호텔정보, 방 정보 제공 및 예약 사이트로의 유입 유도
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### 2. 브이로거 컨택
 
-### Analyzing the Bundle Size
+- 여행 브이로거 10명 컨택 완료 및 영상 사용에 대한 동의를 받음
+- 해당 영상을 통해 발생한 호텔 매출의 2%를 영상 사용에 대한 리워드로 제시함을 합의
+- 동의를 받은 영상 페이지에 개제 완료(34개 영상)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### 3. 기존 OTA 페이지에서 아고파 파트너스로 대체
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- 기존 OTA 페이지로 유입되는 것을 아고다 파트너스 URL로 변경 → 클릭율, 구매 전환율 체크 가능
